@@ -1,0 +1,15 @@
+//
+// Resource Version File
+//
+
+
+#include <ntverp.h>
+
+#define VER_FILETYPE    VFT_DLL
+#define VER_FILESUBTYPE VFT2_UNKNOWN
+#define VER_FILEDESCRIPTION_STR     "Centerm Printer Monitor DLL"
+#define VER_INTERNALNAME_STR        "monitor.dll"
+#define VER_ORIGINALFILENAME_STR    "monitor.dll"
+
+#include <common.ver>
+
